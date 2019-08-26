@@ -13,10 +13,10 @@
    -- IUB1
    -- IUB2
 - Materials
-   -- 4-Visualization-with-Matplotlib.ipynb
+   -- VisualizationwithMatplotlib.ipynb
    -- numpy_tutorial.ipynb
 - Sessionals
-   -- Benagli.Ai Session01.ipynb
+   -- Sessional_01.ipynb
 - .ipynb_checkpoints
 ```
 ### Data Link
